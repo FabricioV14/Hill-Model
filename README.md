@@ -12,7 +12,7 @@ Selecciona tu idioma / Select your language:
 Bienvenido a la sección en español. En este apartado encontrarás la documentación teórica y el script de simulación del modelo de Hill.
 
 ### Contenidos
-* 📄 **Documentación:** [Descargar PDF (Modelo Hill)](./es/modelo_hill.pdf)
+* 📄 **Documentación:** [Descargar PDF (Modelo Hill)](./es/MODELO_HILL.pdf)
 * 💻 **Código:** [Ver script de Matlab](./es/codigo_hill.m)
 
 ---

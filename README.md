@@ -22,5 +22,5 @@ Bienvenido a la sección en español. En este apartado encontrarás la documenta
 Welcome to the English section. In this section, you will find the theoretical documentation and the simulation script for the Hill Model.
 
 ### Contents
-* 📄 **Documentation:** [Download PDF (Hill Model)](./en/hill_model.pdf)
-* 💻 **Code:** [View Matlab script](./en/hill_code.m)
+* 📄 **Documentation:** [Download PDF (Hill Model)](./en/HILL_MODEL.pdf)
+* 💻 **Code:** [View Matlab script](./en/hill_model.m)
